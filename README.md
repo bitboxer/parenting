@@ -2,7 +2,7 @@
 
 One of the best advices someone told us was this:
 
-> Never listen to parenting advices by people with only
+> Never listen to parenting advice by people with only
 > one kid.
 
 So be warned. This is my first kid :wink: .
