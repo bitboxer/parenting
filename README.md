@@ -9,4 +9,4 @@ So be warned. This is my first kid :wink: .
 
 Here you will find some lists with things I learned along the way.
 
-* the list of things in our [Hospital bag](hospital_bag.md)
+* the list of things in our [hospital bag](hospital_bag.md)
