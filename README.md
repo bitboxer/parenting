@@ -1,6 +1,6 @@
 # Parenting
 
-One of the best advices someone told us was this:
+One of the best pieces of advice I got for parenting was this:
 
 > Never listen to parenting advice by people with only
 > one kid.
