@@ -36,4 +36,4 @@ You also need some clothes for the baby. This depends a lot on your taste and
 the season your baby is born in. Buy at least 10 outfits for the baby. In the
 beginning you will change the clothes a lot and you don't want to run out of
 things to wear for your little one. If you are lucky you can get lots of clothes
-from friends who already had a baby.
+from friends who already had a baby. We love our bodysuits by [Tom & Jenny](https://www.tomundjenny.com/en.html).
