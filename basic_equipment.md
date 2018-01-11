@@ -4,7 +4,7 @@ This is the list of basic things I think you might need when starting with
 your first baby. I asked lots of friends and tried to combine all that knowledge
 into one big list.
 
-If you think there are thinks missing, feel free to send a pull request.
+If you think there are things missing, feel free to send a pull request.
 
 * 4-5 bottles with nipple for newborn
 * bottle warmer
@@ -12,11 +12,14 @@ If you think there are thinks missing, feel free to send a pull request.
 * bottle drying rack
 * baby monitor
 * 4 pacifier for newborn
-* heat lamp for the change table
+* heat lamp for the changing table
 * nursing pads
+* sanitary napkins
 * 3 packs of diapers, size 1
-* 1 pack of infant formula for newborns just to be on the safe side. If you decide not to
-  breast feed, buy more.
+* 1 pack of infant formula for newborns just to be on the safe side. If you
+  decided not to breast feed, buy more. Here in Germany you want to buy
+  formula classified as "HA Pre". "HA" stands for "hypoallergen" and basically
+  means it is suited even for kids with allergy problems.
 * thermos bottle for hot water and one clean glas bottle for boiled water. You mix
   both to have the ideal temperature for the preparation of the formula food.
 * some form of carry system. There are tons out there and you might need to
@@ -29,7 +32,7 @@ If you think there are thinks missing, feel free to send a pull request.
 * baby sleeping bag
 * baby bath tub
 
-And then you need clothes for the baby. This depends a lot on your taste and
+You also need some clothes for the baby. This depends a lot on your taste and
 the season your baby is born in. Buy at least 10 outfits for the baby. In the
 beginning you will change the clothes a lot and you don't want to run out of
 things to wear for your little one. If you are lucky you can get lots of clothes
