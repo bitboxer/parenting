@@ -18,7 +18,7 @@ bag for the birth of our baby:
 * lots of change for the vending machines
 * comfortable clothes
 * snacks, lots of them
-* loudspeaker for some music
+* bluetooth speaker for some music
 * slippers, usually they won't allow you to wander around in your
   street shoes.
 
