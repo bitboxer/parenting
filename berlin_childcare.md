@@ -5,6 +5,7 @@ for their employees. Feel free to send a PR to add yours :heart: .
 
 ## Childcare on site
 
+- [Axel Springer](http://www.axelspringer.de/)
 - [Idealo](https://www.idealo.de)
 
 ## Cooperations with Kitas
