@@ -10,6 +10,7 @@ to add yours :heart: .
 - [Axel Springer](http://www.axelspringer.de/)
 - [Idealo](https://www.idealo.de)
 - [Unfallkrankenhaus Berlin](https://www.ukb.de/)
+- [Zalando](http://zalando.de)
 
 ## Cooperations with Kitas
 
