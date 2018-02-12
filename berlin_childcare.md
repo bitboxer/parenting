@@ -1,7 +1,8 @@
 # Childcare in Berlin companies
 
 This is a list of companies that offers some form of childcare
-for their employees. Feel free to send a PR to add yours :heart: .
+for their employees. Feel free to send a PR or an [email](mailto:bodo@tasche.me)
+to add yours :heart: .
 
 ## Childcare on site
 
