@@ -20,3 +20,7 @@ to add yours :heart: .
 ## Coworking Spaces with childcare
 
 - [Coworking Toddler](http://www.coworkingtoddler.com/en/home-en/)
+- [Easy Busy](http://www.easybusyspace.de/)
+- [juggleHUB](http://jugglehub.de)
+- [Le Box](http://lebox.berlin/)
+
