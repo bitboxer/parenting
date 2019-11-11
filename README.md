@@ -13,7 +13,5 @@ Here you will find some lists with things I learned along the way.
 * the list of things in our [hospital bag](hospital_bag.md)
 * [basic equipment](basic_equipment.md) you might need for your baby
 
-More documents can be found [here](https://github.com/dadaberlin/parenting).
-
 I started a slack group for fathers* in tech here in Berlin. If you
 are interested, feel free to [join](http://dadaberlin.herokuapp.com/).
